@@ -35,7 +35,7 @@ const Footer = () => {
                 </div>
              </div>
              <hr/>
-             <p className="footer-copyright">Copyright 2024 © vamshi.com - All Rights Reserved. </p>
+             <p className="footer-copyright">Desing and Developed By R Vamshi Rathod ||  All Rights Reserved. </p>
          
       
     </div>

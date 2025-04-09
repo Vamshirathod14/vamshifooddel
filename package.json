@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "bcryptjs": "^3.0.2"
+    "bcryptjs": "^3.0.2",
+    "react-toastify": "^11.0.5"
   }
 }
